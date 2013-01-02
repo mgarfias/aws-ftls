@@ -1,0 +1,16 @@
+# tree format
+aws_access_key_id: AKIAI5LYUKZ3ALJMOJKA
+aws_secret_access_key: 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
+bucket_name: puppet.garfias.org
+puppet_path: /
+bucket_prefix: puppet 
+num_instances: 1
+aws_region: 
+  - us-west-2
+  - us-east-1
+aws_az:
+  - us-east-1a
+  - us-west-2a
+instance_type: m1.small
+base_ami: 
+security_group:
